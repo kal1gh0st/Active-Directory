@@ -4,6 +4,7 @@ Active Directory is one of the most common uses for PowerShell. I have personall
 All of the Active Directory scripts I’ll be listing here are in various stages of functionality. The point of this post isn’t to give you 100% tested, pristine scripts but rather give you a jumpstart on creating some of your own.
 
 All of the scripts listed here are Active Directory PowerShell scripts. You can script things in Active Directory but if you’ve noticed, PowerShell is sorta my thing. Enjoy!
+
 ![immagine](https://user-images.githubusercontent.com/56889513/117017675-13da3f80-acf4-11eb-90f0-34d845507cbe.png)
 
 Table of Contents
