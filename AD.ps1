@@ -1,5 +1,5 @@
-Domain = "dominio.local"
-UserName ="andreiono"
+Domain = "dominio.local" #your local domain
+UserName ="kal1gh0st" #your username
 SET cn = CREATEOBJECT("ADODB.Connection")
 SET cmd = CREATEOBJECT("ADODB.Command")
 SET rs = CREATEOBJECT("ADODB.Recordset")
